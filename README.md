@@ -9,7 +9,7 @@ I’m an aspiring **Web3 developer** with a strong passion for **blockchain, DeF
 - 🌱 **Currently Learning:** Solidity, smart contract development, and blockchain fundamentals through the **Metana.io Web3 Full Stack Developer course**.  
 - 🏗 **Hands-on Experience:** Using DeFi protocols, decentralised exchanges (DEXs), wallets, and NFT platforms.  
 - 👯 **Looking to Collaborate On:** Beginner-friendly blockchain projects, DeFi tools, and community-driven crypto initiatives.  
-- 🔍 **Interests:** DeFi, DEXs, tokenomics, and the evolving Web3 ecosystem.  
+- 🔍 **Interests:** DeFi, DEXs, tokenomics, and the evolving Web3 ecosystem, extreme sports, music, drumming, fitness, hiking, exploring. 
 
 ---
 
